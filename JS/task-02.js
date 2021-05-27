@@ -1,7 +1,7 @@
-// console.log('hw-02');
-// const shouldConfirm = confirm('{jnbnt ghjl');
-// console.log(shouldConfirm);
-// const quantity = prompt();
-// console.log(quantity);
-// console.log(2 ** 100);
-console.log(Math.random()*100);
+// Имя товара изменили на "Repair droid" и увеличили его цену на 1500 кредитов. Переопредели значения переменных pricePerItem и productName после их объявления.
+let productName = "Droid";
+let pricePerItem = 2000;
+
+// Change code below this line
+productName = "Repair droid";
+pricePerItem += 1500;
